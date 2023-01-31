@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    margin-left: 20;
+    padding: 5;
+    color: antiquewhite;
+    font-style: oblique;
+    font-size: medium;
+    text-shadow: 10px 10px 5px whitesmoke;
+}
+h2{
+    margin-left: auto;
+    font-style: oblique;
+    color: antiquewhite;
+    text-decoration: double;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    padding: 10;
+    counter-reset:initial;
+}
+div:hover{
+    background-color:bisque;
+    opacity: 0.5;
+}
+div{
+    color:antiquewhite;
+    font-size: medium;
+    font-style: oblique;
+    margin: 10;
+    padding: 5;
+}
+p{
+    margin-top: 10;
+    margin-bottom: 10;
+    margin-left: 45;
+    color: antiquewhite;
+}
+p::before{
+    font-style: italic;
+    counter-increment: initial;
+}
+

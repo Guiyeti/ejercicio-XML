@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cancion
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="file:///C:/Users/Guille/Desktop/Nueva%20carpeta%20(2)/anyylucasss.xsd">
+	<titulo>titulo</titulo>
+	<autor>autor</autor>
+	<letra>
+		<estrofa>
+			<tipo>tipo</tipo>
+			<orden>10002</orden>
+			<verso>verso</verso>
+		</estrofa>
+	</letra>
+</cancion>

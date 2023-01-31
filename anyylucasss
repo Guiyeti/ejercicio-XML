@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="andylucas.css"?>
+<cancion>
+	<titulo>Tanto la queria</titulo>
+	<autor>Andy y Lucas</autor>
+	<letra>
+		<estrofa>
+			<tipo>normal</tipo>
+			<orden>5</orden>
+			<verso>Porque eres tan hermosa y a la vez tan dificil</verso>
+			<verso>Porque la vida pasa y pasa y te quiero a mi vera</verso>
+			<verso>Si me trataste como a un juguete sucio y abandonado</verso>
+			<verso>Si no comprendes que el amar es algo mas que besarnos</verso>
+		</estrofa>
+		<estrofa>
+			<tipo>normal</tipo>
+			<orden>4</orden>
+			<verso>Envidio a todo aquel que el amor a encontrado</verso>
+			<verso>Que lo mio no es ir de flor en flor,que de eso ya me he cansado</verso>
+			<verso>Solo queria adornar la noche con tu cara morena</verso>
+			<verso>Y decirte que hay corazones que no huyen de la tormenta</verso>
+		</estrofa>
+		<estrofa>
+			<tipo>estribillo</tipo>
+			<orden>3</orden>
+		    <verso>A veces la miro y lloro y lloro</verso>
+			<verso>Pensando que pudo y no fue al final</verso>
+			<verso>Ver a las nubes, tapar las estrellas</verso>
+			<verso>Estrellas que solo te quieren mirar</verso>
+		</estrofa>
+		<estrofa>
+			<tipo>estribillo</tipo>
+			<orden>3</orden>
+			<verso>Porque eres la cuna que mece sin nada</verso>
+			<verso>Porque eres la lluvia que no hace mojar</verso>
+			<verso>Sin ti yo veia tardes de historias</verso>
+			<verso>Historias que nuna quise ver acabar</verso>
+		</estrofa>
+		<estrofa>
+			<tipo>estribillo</tipo>
+			<orden>3</orden>
+			<verso>Tanto la queria, tanto que yo</verso>
+			<verso>Por ella moria, eso bien lo sabe Dios</verso>
+			<verso>Ella es la reina de mi inspiracion</verso>
+			<verso>Por la que yo sufro la musa de mi amor</verso>
+		</estrofa>
+		<estrofa>
+			<tipo>normal</tipo>
+			<orden>2</orden>
+			<verso>Busco en el recuerdo y no encuentro mi pasado</verso>
+			<verso>Las campanas y mas campanas que mi alma a escuchado</verso>
+			<verso>Tu sabes bien que a la ultima frontera te hubiera llevado</verso>
+			<verso>Que los senderos de la vida hay que cogerlos con dos manos</verso>
+		</estrofa>
+	</letra>
+	</cancion>
